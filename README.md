@@ -8,7 +8,7 @@ Asansol Engineering College
 Coal mines face sudden tremors called seismic bumps. They put workers at risk and can stop production. This project uses seismic sensor readings to predict whether a shift is dangerous.
 
 ## Dataset
-- File: Seismic_Bumps_Clean.csv
+- File: seismic-bumps.csv
 - 2,584 records, 19 columns, no missing values
 - Target column class: 0 = No Danger (2,414), 1 = Danger (170)
 - The data is imbalanced: only about 6.6% of records are Danger
